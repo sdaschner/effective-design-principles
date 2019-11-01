@@ -1,0 +1,3 @@
+== Design principles for the effective developer
+
+Contains code examples meant to showcase design princples. The code is not meant to be executed.
