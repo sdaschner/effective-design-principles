@@ -16,7 +16,7 @@ public class Car {
         this.tankLevel = 1.0;
     }
 
-    private MaintenanceLogBook createMaintenanceLog() {
+    public MaintenanceLogBook createMaintenanceLog() {
 
         // maintenance log of the last 5 years
 
