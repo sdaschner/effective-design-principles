@@ -4,27 +4,18 @@ import org.junit.jupiter.api.Test;
 
 public class EndToEndTest {
 
-
     @Test
-    void testCreateBMW() {
-
-        // create car
+    void createVerifyBMW() {
+        // create car order
         //   with brand BMW
         //   and color red
-        // save car order
+        // save orderId
 
-        // verify whether car order is in system
-        //   with brand BWM
+        // verify that car with <orderId>
+        //   has brand BMW
         //   and color red
-    }
 
-    int calculateFillTank() {
-        // we did it this way, b/c
-        return (int) (3 * 12.5);
-    }
-
-    int getFill() {
-
+        // verify that <orderId> is included in list of orders
     }
 
 }

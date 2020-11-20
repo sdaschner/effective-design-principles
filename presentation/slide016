@@ -1,0 +1,14 @@
+
+
+
+
+
+        Key takeaways
+
+        • Be pragmatic & solve business problems
+        • Delegate & craft proper abstraction layers
+        • Favor immutability (or effective immutability)
+        • Avoid leaky abstractions
+        • “Think first”
+        • YAGNI: “You ain't gonna need it”
+        • Design approaches > technology choices

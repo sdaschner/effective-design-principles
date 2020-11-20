@@ -3,12 +3,29 @@
 
 
 
-        Key takeaways
+        SOLID
 
-        • Be pragmatic & solve business problems
-        • Delegate & craft proper abstraction layers
-        • Favor immutability (or effective immutability)
-        • Avoid leaky abstractions
-        • “Think first”
-        • YAGNI: “You ain't gonna need it”
-        • Design approaches > technology choices
+        • Single Responsibility Principle
+        • Open Closed Principle
+        • Liskov Substitution Principle
+        • Interface Segregation Principle
+        • Dependency Inversion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!!:open power-plugs.jpg
